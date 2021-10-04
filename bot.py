@@ -8,7 +8,7 @@ import datetime
 import time
 now = datetime.datetime.now()
 
-bot = telebot.TeleBot('557427578:AAE8EC4tYFY85bRmSClQYfXBoMQrGP3zcm0')
+bot = telebot.TeleBot('1973405804:AAE-2nv1Qk2gWFS88oH2En5CIeyBRrB4BUE')
 keyboard1 = telebot.types.ReplyKeyboardMarkup(True)
 keyboard1.row('Показать расписание')
 gt = 0
